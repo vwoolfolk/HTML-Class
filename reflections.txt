@@ -1,0 +1,31 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+---
+
+Your response goes here!
+
+This assignment taught me how to build superscripts, horizontal rules and strikethroughs; which are tags we didn't 
+cover in the previous lessons.
+
+Paragraph, bold and italizing was very simple to grasp; I believe partly because we had more exercises with those tags.
+
+Links were a little difficult for me to remember because I thought the anchor at the end of the element required 
+an opening and closing tag.   
+
+I think the MDN Element Reference could be a bit more user friendly for the HTML Dummies;like myself :) 
+
+I referenced the Forum for help as well has the MDN Element.  I also had to refer to my notes and take a break before 
+completing my project. 
